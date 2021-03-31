@@ -11,7 +11,7 @@ from sklearn.model_selection import GridSearchCV
 st.set_page_config(page_title='Hyperparameter Tuning', layout='wide')
 
 
-st.title('Hyperparameter Tuning with Scikit-Learn')
+st.title('Hyperparameter Tuning with Scikit-Learn!')
 st.write("Tune **parameters** with Scikit-Learn's *GridSearchCV* ")
 st.write('')
 
