@@ -12,7 +12,7 @@ https://share.streamlit.io/randell-janus/hyperparameter-tuning/main/app.py
 The datasets used are the Iris Plants and Wine Recognition from scikit-learn's toy datasets.
 
 ## Models Used
-* Random FOrest Classifier
+* Random Forest Classifier
 * Support Vector Machine
 * Logistic Regression
   
